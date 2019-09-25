@@ -1,0 +1,2 @@
+# express_server-with-jade_view_engine
+a simple project for testing the jade view engine inside node, with the express framework.
