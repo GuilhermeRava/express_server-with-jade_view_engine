@@ -3,4 +3,5 @@ a simple project for testing the jade view engine inside node, with the express 
 
 # Steps:
 1 - npm install
+
 2 - npm start
